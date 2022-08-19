@@ -1,0 +1,77 @@
+body {
+    font-size: 30px;
+}
+
+.btn {
+    background-color: blue;
+    color: #fff;
+    font-size: 30px;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+/* .text1 {
+    color: yellowgreen;
+}
+
+#demo1 {
+    color: rgb(0, 0, 0);
+}
+
+#demo2 {
+    background-color: yellow;
+    color: black;
+}
+
+#demo3 {
+    background-color: black;
+    color: white;
+}
+
+p {
+    color: rgb(139, 6, 79);
+} */
+
+/* h1 {
+    color: blue;
+}
+
+p {
+    color: blue;
+} */
+
+div h1 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+h3 {
+    color: blue;
+}
+
+.para {
+    color: aquamarine;
+}
+
+#demo1 {
+    color: rgb(233, 42, 147);
+}
+
+section .text h3 {
+    color: black;
+}
+
+section>div {
+    background-color: rgb(94, 94, 94);
+    color: white;
+}
